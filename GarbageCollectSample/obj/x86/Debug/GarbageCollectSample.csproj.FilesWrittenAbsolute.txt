@@ -1,0 +1,5 @@
+/Users/mspimac2/Desktop/Xamarin Training/GarbageCollectSample/GarbageCollectSample/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mspimac2/Desktop/Xamarin Training/GarbageCollectSample/GarbageCollectSample/bin/Debug/GarbageCollectSample.exe.mdb
+/Users/mspimac2/Desktop/Xamarin Training/GarbageCollectSample/GarbageCollectSample/bin/Debug/GarbageCollectSample.exe
+/Users/mspimac2/Desktop/Xamarin Training/GarbageCollectSample/GarbageCollectSample/obj/x86/Debug/GarbageCollectSample.exe
+/Users/mspimac2/Desktop/Xamarin Training/GarbageCollectSample/GarbageCollectSample/obj/x86/Debug/GarbageCollectSample.exe.mdb

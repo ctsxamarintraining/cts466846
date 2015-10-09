@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="GarbageCollectSample/GarbageCollectSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GarbageCollectSample/Program.cs">
+    <Files>
+      <File FileName="GarbageCollectSample/Program.cs" Line="36" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
