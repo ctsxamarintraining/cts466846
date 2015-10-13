@@ -1,0 +1,5 @@
+/Users/mspimac2/Projects/Day2_Assigment/Array_Ques2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mspimac2/Projects/Day2_Assigment/Array_Ques2/bin/Debug/Array_Ques2.exe.mdb
+/Users/mspimac2/Projects/Day2_Assigment/Array_Ques2/bin/Debug/Array_Ques2.exe
+/Users/mspimac2/Projects/Day2_Assigment/Array_Ques2/obj/x86/Debug/Array_Ques2.exe
+/Users/mspimac2/Projects/Day2_Assigment/Array_Ques2/obj/x86/Debug/Array_Ques2.exe.mdb

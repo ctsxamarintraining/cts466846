@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Ques1", "Array_Ques1\Array_Ques1.csproj", "{CBC62A50-1D6E-4D53-8D50-302EFD9A56FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Ques2", "Array_Ques2\Array_Ques2.csproj", "{39BAA079-33D1-4BE4-8ED2-05E709FA6A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Ques3", "Array_Ques3\Array_Ques3.csproj", "{C422A5D8-A1FB-4A4A-93D5-9D2DD64874CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Ques4", "Array_Ques4\Array_Ques4.csproj", "{EAF530FB-2822-405A-8F34-BB6AB21C53B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BAA079-33D1-4BE4-8ED2-05E709FA6A85}.Debug|x86.ActiveCfg = Debug|x86
+		{39BAA079-33D1-4BE4-8ED2-05E709FA6A85}.Debug|x86.Build.0 = Debug|x86
+		{39BAA079-33D1-4BE4-8ED2-05E709FA6A85}.Release|x86.ActiveCfg = Release|x86
+		{39BAA079-33D1-4BE4-8ED2-05E709FA6A85}.Release|x86.Build.0 = Release|x86
+		{C422A5D8-A1FB-4A4A-93D5-9D2DD64874CB}.Debug|x86.ActiveCfg = Debug|x86
+		{C422A5D8-A1FB-4A4A-93D5-9D2DD64874CB}.Debug|x86.Build.0 = Debug|x86
+		{C422A5D8-A1FB-4A4A-93D5-9D2DD64874CB}.Release|x86.ActiveCfg = Release|x86
+		{C422A5D8-A1FB-4A4A-93D5-9D2DD64874CB}.Release|x86.Build.0 = Release|x86
+		{CBC62A50-1D6E-4D53-8D50-302EFD9A56FA}.Debug|x86.ActiveCfg = Debug|x86
+		{CBC62A50-1D6E-4D53-8D50-302EFD9A56FA}.Debug|x86.Build.0 = Debug|x86
+		{CBC62A50-1D6E-4D53-8D50-302EFD9A56FA}.Release|x86.ActiveCfg = Release|x86
+		{CBC62A50-1D6E-4D53-8D50-302EFD9A56FA}.Release|x86.Build.0 = Release|x86
+		{EAF530FB-2822-405A-8F34-BB6AB21C53B7}.Debug|x86.ActiveCfg = Debug|x86
+		{EAF530FB-2822-405A-8F34-BB6AB21C53B7}.Debug|x86.Build.0 = Debug|x86
+		{EAF530FB-2822-405A-8F34-BB6AB21C53B7}.Release|x86.ActiveCfg = Release|x86
+		{EAF530FB-2822-405A-8F34-BB6AB21C53B7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
