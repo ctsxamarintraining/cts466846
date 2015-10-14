@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Ques_1", "Exception_Ques_1\Exception_Ques_1.csproj", "{2FE663A2-D461-484A-A36F-6A474685EEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Ques_2", "Exception_Ques_2\Exception_Ques_2.csproj", "{893AE3E2-BC8E-41F1-BAA4-14F9293B97D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Ques_3", "Exception_Ques_3\Exception_Ques_3.csproj", "{8FFAB714-0D7B-4E1B-B092-4196597D214D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE663A2-D461-484A-A36F-6A474685EEDE}.Debug|x86.ActiveCfg = Debug|x86
+		{2FE663A2-D461-484A-A36F-6A474685EEDE}.Debug|x86.Build.0 = Debug|x86
+		{2FE663A2-D461-484A-A36F-6A474685EEDE}.Release|x86.ActiveCfg = Release|x86
+		{2FE663A2-D461-484A-A36F-6A474685EEDE}.Release|x86.Build.0 = Release|x86
+		{893AE3E2-BC8E-41F1-BAA4-14F9293B97D3}.Debug|x86.ActiveCfg = Debug|x86
+		{893AE3E2-BC8E-41F1-BAA4-14F9293B97D3}.Debug|x86.Build.0 = Debug|x86
+		{893AE3E2-BC8E-41F1-BAA4-14F9293B97D3}.Release|x86.ActiveCfg = Release|x86
+		{893AE3E2-BC8E-41F1-BAA4-14F9293B97D3}.Release|x86.Build.0 = Release|x86
+		{8FFAB714-0D7B-4E1B-B092-4196597D214D}.Debug|x86.ActiveCfg = Debug|x86
+		{8FFAB714-0D7B-4E1B-B092-4196597D214D}.Debug|x86.Build.0 = Debug|x86
+		{8FFAB714-0D7B-4E1B-B092-4196597D214D}.Release|x86.ActiveCfg = Release|x86
+		{8FFAB714-0D7B-4E1B-B092-4196597D214D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
