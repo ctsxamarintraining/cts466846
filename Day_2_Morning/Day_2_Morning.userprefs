@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="Generic_Ques/Generic_Ques.csproj" />
+﻿<Properties StartupItem="Generic_Ques/Generic_Ques.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generic_Ques/Program.cs">
+    <Files>
+      <File FileName="Generic_Ques/Program.cs" Line="23" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
