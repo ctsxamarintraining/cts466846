@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ques_1", "Ques_1\Ques_1.csproj", "{F3D5EA59-54E2-40D4-A489-74ACF5F87D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ques_2", "Ques_2\Ques_2.csproj", "{34C4A9CA-F187-469A-9DC7-3C7BD45333BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ques_3", "Ques_3\Ques_3.csproj", "{2004448B-97A2-4206-A7D4-8B18944B9239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2004448B-97A2-4206-A7D4-8B18944B9239}.Debug|x86.ActiveCfg = Debug|x86
+		{2004448B-97A2-4206-A7D4-8B18944B9239}.Debug|x86.Build.0 = Debug|x86
+		{2004448B-97A2-4206-A7D4-8B18944B9239}.Release|x86.ActiveCfg = Release|x86
+		{2004448B-97A2-4206-A7D4-8B18944B9239}.Release|x86.Build.0 = Release|x86
+		{34C4A9CA-F187-469A-9DC7-3C7BD45333BE}.Debug|x86.ActiveCfg = Debug|x86
+		{34C4A9CA-F187-469A-9DC7-3C7BD45333BE}.Debug|x86.Build.0 = Debug|x86
+		{34C4A9CA-F187-469A-9DC7-3C7BD45333BE}.Release|x86.ActiveCfg = Release|x86
+		{34C4A9CA-F187-469A-9DC7-3C7BD45333BE}.Release|x86.Build.0 = Release|x86
+		{F3D5EA59-54E2-40D4-A489-74ACF5F87D26}.Debug|x86.ActiveCfg = Debug|x86
+		{F3D5EA59-54E2-40D4-A489-74ACF5F87D26}.Debug|x86.Build.0 = Debug|x86
+		{F3D5EA59-54E2-40D4-A489-74ACF5F87D26}.Release|x86.ActiveCfg = Release|x86
+		{F3D5EA59-54E2-40D4-A489-74ACF5F87D26}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
