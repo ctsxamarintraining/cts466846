@@ -1,8 +1,10 @@
-﻿<Properties StartupItem="Ques_3/Ques_3.csproj">
+﻿<Properties StartupItem="Ques_4/Ques_4.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ques_1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ques_3/MyClassQueue.cs">
     <Files>
-      <File FileName="Ques_1/Program.cs" Line="20" Column="51" />
+      <File FileName="Ques_3/Program.cs" Line="20" Column="16" />
+      <File FileName="Ques_3/MyClassQueue.cs" Line="21" Column="20" />
+      <File FileName="Ques_3/MyClassStack.cs" Line="33" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
